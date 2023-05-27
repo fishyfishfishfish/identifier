@@ -9,7 +9,7 @@ width: 100%;
 margin: 0px;
 }
 
-#status
+#status,#numberOfObjects
 {
 font-size: 18px;
 }
@@ -18,4 +18,5 @@ canvas{
     border-radius: 10px;
     
 }
+
 
