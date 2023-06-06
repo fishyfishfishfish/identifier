@@ -1,22 +1,23 @@
 body{
-    background-position: center;
     background-size: cover;
-}
-.heading
-{
-font-size: 23px;
-width: 100%;
-margin: 0px;
+    color: crimson;
 }
 
-#status,#numberOfObjects
-{
-font-size: 18px;
-}
-canvas{
-    box-shadow: 10px 8px 8px rebeccapurple;
-    border-radius: 10px;
-    
+.heading{
+    font-size: 20px;
+    margin: 0px;
+    width: 99%;
 }
 
+#button,#numberOfObjects,#status{
+    font-size: 17px;
+}
 
+.footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    background-color: blue;
+    color: greenyellow;
+    text-align: center;
+}
